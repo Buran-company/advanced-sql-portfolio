@@ -21,3 +21,7 @@ KPI shows stable level of accomplishment (~70-74%) among the regions, and also h
 Question 14 Interpretation required:
 
 The cumulative spending window function tracks the growth of customer value over time, pinpointing when key thresholds are reached. This trajectory analysis is necessary to identify loyal customers and apply loyalty measures.
+
+Question 15 Interpretation required:
+
+The three-month moving average smooths out short-term volatility. It identifies revenue macro trends and suppresses early periods where fewer than three observations. This smoothing method helps financial analysts to separate seasonal noise from structural business growth.
