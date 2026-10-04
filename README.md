@@ -17,3 +17,7 @@ Using "left join" and "coalesce" feature table both contains inactive customers 
 Question 12 Interpretation required:
 
 KPI shows stable level of accomplishment (~70-74%) among the regions, and also highlights the differences in orders amount and average check. This operational summary allows regional managers to identify where logistical delays or spikes in cancellations affect revenue.
+
+Question 14 Interpretation required:
+
+The cumulative spending window function tracks the growth of customer value over time, pinpointing when key thresholds are reached. This trajectory analysis is necessary to identify loyal customers and apply loyalty measures.
