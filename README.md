@@ -13,3 +13,7 @@ Both "in" and "exists" help to isolate positions bought by corporate customers, 
 Question 9 Interpretation required:
 
 Using "left join" and "coalesce" feature table both contains inactive customers and calculates the prescription of interaction for active customers. It allows customer service departments to purposefully work with outgoing customers and to encourage valuable customers. 
+
+Question 12 Interpretation required:
+
+KPI shows stable level of accomplishment (~70-74%) among the regions, and also highlights the differences in orders amount and average check. This operational summary allows regional managers to identify where logistical delays or spikes in cancellations affect revenue.

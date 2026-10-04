@@ -1,0 +1,6 @@
+"region","total_orders","completed_orders","cancelled_orders","completed_revenue","avg_completed_order_amount","completion_rate_pct"
+"North","180","180","0","303727.20","1687.37","100.00"
+"East","180","180","0","261660.34","1453.67","100.00"
+"South","180","96","36","139404.45","1452.13","53.33"
+"West","180","96","36","111966.84","1166.32","53.33"
+"Unmatched","5","3","1","9321.21","3107.07","60.00"
