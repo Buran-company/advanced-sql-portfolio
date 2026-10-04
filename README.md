@@ -9,3 +9,7 @@ Customers with multiple addresses (up to 3) are causing significant multiplicati
 Question 6 Interpretation required:
 
 Both "in" and "exists" help to isolate positions bought by corporate customers, preventing duplication using "distinct". This filtration helps merchandisers identify product preferences, it is especially useful for premium segment.
+
+Question 9 Interpretation required:
+
+Using "left join" and "coalesce" feature table both contains inactive customers and calculates the prescription of interaction for active customers. It allows customer service departments to purposefully work with outgoing customers and to encourage valuable customers. 
